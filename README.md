@@ -5,6 +5,9 @@ This module simply creates an `Events` folder in `ReplicatedStorage` and using t
 > [!TIP]
 > **5/26/24** - Fixed a Client -> Client call not working, added settings in module `warnIfNil` and `waitUntilValid`
 
+| [Get Model on Roblox](https://create.roblox.com/store/asset/17409077618/Networker) |
+| ------------- |
+
 > [!NOTE]
 > I'm very aware the code is not too clean. I made this for myself to have a cleaner RS. I don't care how you alter the code whatsoever so if you know what you're doing, do whatever man. There's probably better networking systems available anyway lolz
 
