@@ -2,7 +2,7 @@
 Simple to use networking system to make developing smoother &amp; having basic protection against exploiters.
 This module simply creates an `Events` folder in `ReplicatedStorage` and using the `:bind()` method, creates the respective bindable (randomized Name for security).
 
-> [!INFORMATION]
+> [!TIP]
 > Update note 5/26/24 - Fixed a Client -> Client call not working, added settings in module `warnIfNil` and `waitUntilValid`
 
 > [!NOTE]
