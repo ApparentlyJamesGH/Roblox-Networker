@@ -3,7 +3,7 @@ Simple to use networking system to make developing smoother &amp; having basic p
 This module simply creates an `Events` folder in `ReplicatedStorage` and using the `:bind()` method, creates the respective bindable (randomized Name for security).
 
 > [!TIP]
-> Update note 5/26/24 - Fixed a Client -> Client call not working, added settings in module `warnIfNil` and `waitUntilValid`
+> **5/26/24** - Fixed a Client -> Client call not working, added settings in module `warnIfNil` and `waitUntilValid`
 
 > [!NOTE]
 > I'm very aware the code is not too clean. I made this for myself to have a cleaner RS. I don't care how you alter the code whatsoever so if you know what you're doing, do whatever man. There's probably better networking systems available anyway lolz
