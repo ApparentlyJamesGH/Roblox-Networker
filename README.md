@@ -3,7 +3,7 @@ Simple to use networking system to make developing smoother &amp; having basic p
 This module simply creates an `Events` folder in `ReplicatedStorage` and using the `:bind()` method, creates the respective bindable (randomized Name for security).
 
 > [!TIP]
-> **5/26/24** - Fixed a Client -> Client call not working, added settings in module `warnIfNil` and `waitUntilValid`
+> **5/30/24** - Added a new setting `reEncryptAfterCall`, that will rename the bindable to further make it harder to exploit.
 
 | [Get Model on Roblox](https://create.roblox.com/store/asset/17409077618/Networker) |
 | ------------- |
